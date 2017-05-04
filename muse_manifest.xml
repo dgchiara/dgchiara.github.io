@@ -1,0 +1,120 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="interpract.com" resolutions="1x" timestamp="1493911641623">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="seeing-voices.css" crc="4085156015" ref="seeing-voices"/>
+    <file name="nomq_seeing-voices.css" crc="4078898096" ref="seeing-voices"/>
+    <file name="fear-and-love.css" crc="356431528" ref="fear-and-love"/>
+    <file name="nomq_fear-and-love.css" crc="3984426549" ref="fear-and-love"/>
+    <file name="future-archives.css" crc="4214681443" ref="future-archives"/>
+    <file name="nomq_future-archives.css" crc="445139355" ref="future-archives"/>
+    <file name="shadow-world.css" crc="4278439488" ref="shadow-world"/>
+    <file name="nomq_shadow-world.css" crc="109210029" ref="shadow-world"/>
+    <file name="identity.css" crc="4270909256" ref="identity"/>
+    <file name="nomq_identity.css" crc="62142064" ref="identity"/>
+    <file name="ficciones-typographica.css" crc="12123492" ref="ficciones-typographica"/>
+    <file name="nomq_ficciones-typographica.css" crc="254098317" ref="ficciones-typographica"/>
+    <file name="index.css" crc="4257981573" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:shadow-world:fear-and-love:ficciones-typographica:seeing-voices:future-archives:identity"/>
+    <file name="museutils.js" crc="163421577" ref="index:shadow-world:fear-and-love:ficciones-typographica:seeing-voices:future-archives:identity"/>
+    <file name="whatinput.js" crc="86476730" ref="index:shadow-world:fear-and-love:ficciones-typographica:seeing-voices:future-archives:identity"/>
+    <file name="museconfig.js" crc="168988563" ref="index:shadow-world:fear-and-love:ficciones-typographica:seeing-voices:future-archives:identity"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:shadow-world:fear-and-love:ficciones-typographica:seeing-voices:future-archives:identity"/>
+    <file name="require.js" crc="244322403" ref="index:shadow-world:fear-and-love:ficciones-typographica:seeing-voices:future-archives:identity"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="shadow-world:fear-and-love:seeing-voices:future-archives:identity"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="shadow-world:fear-and-love:ficciones-typographica:seeing-voices:future-archives:identity"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="fear-and-love:future-archives"/>
+    <file name="webpro.js" crc="3848665353" ref="ficciones-typographica"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="ficciones-typographica"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="ficciones-typographica"/>
+    <file name="touchswipe.js" crc="404375771" ref="ficciones-typographica"/>
+  </folder>
+  <folder name="images">
+    <file name="clip-1.gif" crc="4275393939" ref="shadow-world"/>
+    <file name="clip-2.gif" crc="3835545707" ref="shadow-world"/>
+    <file name="clip-3.gif" crc="187385517" ref="shadow-world"/>
+    <file name="clip-4.gif" crc="3973265895" ref="shadow-world"/>
+    <file name="segmento 1.png" crc="130817475" ref="fear-and-love"/>
+    <file name="segmento 2-u735-fr.png" crc="264736363" ref="fear-and-love"/>
+    <file name="segmento 3.png" crc="162551065" ref="fear-and-love"/>
+    <file name="segmento 4.png" crc="342461501" ref="fear-and-love"/>
+    <file name="dna---hsp.gif" crc="210996905" ref="fear-and-love"/>
+    <file name="segmento 4-u738-fr.png" crc="90182025" ref="fear-and-love"/>
+    <file name="ft 1.jpg" crc="464372654" seo="true" ref="ficciones-typographica"/>
+    <file name="blank.gif" crc="4208392903" ref="ficciones-typographica:seeing-voices:future-archives:identity"/>
+    <file name="ruins 2.jpg" crc="515117102" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 1.jpg" crc="333359464" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 3.jpg" crc="218327347" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 4.jpg" crc="214044494" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 5.jpg" crc="4163278750" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 4 copy.jpg" crc="3802203698" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 6.jpg" crc="4130910773" seo="true" ref="ficciones-typographica"/>
+    <file name="loading.gif" crc="3815509949" ref="ficciones-typographica"/>
+    <file name="ft 1480x240.jpg" crc="3975424657" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 4 copy480x240.jpg" crc="185293996" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 2480x240.jpg" crc="3872424396" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 5480x240.jpg" crc="78143645" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 6480x240.jpg" crc="371855148" seo="true" ref="ficciones-typographica"/>
+    <file name="sv-1.gif" crc="203820338" ref="seeing-voices"/>
+    <file name="chiaradg2.jpg" crc="334254003" ref="seeing-voices"/>
+    <file name="chiaradg4.jpg" crc="160729189" ref="seeing-voices"/>
+    <file name="ruins-video-3.gif" crc="243587858" ref="seeing-voices"/>
+    <file name="chiaradg5.jpg" crc="334841919" ref="seeing-voices"/>
+    <file name="chiaradg6.jpg" crc="217757220" ref="seeing-voices"/>
+    <file name="ruins-video-2.gif" crc="77148941" ref="seeing-voices"/>
+    <file name="trump-gif.gif" crc="186904546" ref="future-archives"/>
+    <file name="t 1.png" crc="3959691414" ref="future-archives"/>
+    <file name="t 2.png" crc="349072419" ref="future-archives"/>
+    <file name="t 3.png" crc="4112611150" ref="future-archives"/>
+    <file name="t 4.png" crc="4254500714" ref="future-archives"/>
+    <file name="u1390-4.png" crc="35414564" ref="future-archives"/>
+    <file name="u1417-4.png" crc="179968705" ref="future-archives"/>
+    <file name="u1675-4.png" crc="4078626437" ref="future-archives"/>
+    <file name="u1426-4.png" crc="4294197458" ref="future-archives"/>
+    <file name="t 5.png" crc="4182619119" ref="future-archives"/>
+    <file name="d 4.png" crc="11341610" ref="future-archives"/>
+    <file name="d 6.png" crc="3926085506" ref="future-archives"/>
+    <file name="d 8.png" crc="3944437344" ref="future-archives"/>
+    <file name="d 1.png" crc="267526517" ref="future-archives"/>
+    <file name="d 3.png" crc="4183386502" ref="future-archives"/>
+    <file name="u1495-4.png" crc="146996721" ref="future-archives"/>
+    <file name="u1498-4.png" crc="376815989" ref="future-archives"/>
+    <file name="u1501-4.png" crc="535182143" ref="future-archives"/>
+    <file name="u1531-4.png" crc="4130179986" ref="future-archives"/>
+    <file name="ww1.jpg" crc="226696149" ref="future-archives"/>
+    <file name="w 3.png" crc="268115640" ref="future-archives"/>
+    <file name="ww3.jpg" crc="324351623" ref="future-archives"/>
+    <file name="ww2.jpg" crc="72171023" ref="future-archives"/>
+    <file name="w 4.png" crc="200584198" ref="future-archives"/>
+    <file name="u1605-4.png" crc="3814970719" ref="future-archives"/>
+    <file name="u1614-4.png" crc="3913710902" ref="future-archives"/>
+    <file name="u1617-4.png" crc="3937946298" ref="future-archives"/>
+    <file name="u4606-4.png" crc="4176319146" ref="future-archives"/>
+    <file name="u1390-42.png" crc="35414564" ref="future-archives"/>
+    <file name="u1417-42.png" crc="179968705" ref="future-archives"/>
+    <file name="u1675-42.png" crc="4078626437" ref="future-archives"/>
+    <file name="u1426-42.png" crc="4294197458" ref="future-archives"/>
+    <file name="u1495-42.png" crc="146996721" ref="future-archives"/>
+    <file name="u1498-42.png" crc="376815989" ref="future-archives"/>
+    <file name="u1501-42.png" crc="535182143" ref="future-archives"/>
+    <file name="u1531-42.png" crc="4130179986" ref="future-archives"/>
+    <file name="u1605-42.png" crc="3814970719" ref="future-archives"/>
+    <file name="u1614-42.png" crc="3913710902" ref="future-archives"/>
+    <file name="u1617-42.png" crc="3937946298" ref="future-archives"/>
+    <file name="u4606-42.png" crc="4176319146" ref="future-archives"/>
+    <file name="me 2.jpg" crc="9168440" ref="identity"/>
+    <file name="self ruin 2.jpg" crc="382743262" ref="identity"/>
+    <file name="f.jpg" crc="3987884859" ref="identity"/>
+    <file name="mask 3.jpg" crc="3892482793" ref="identity"/>
+    <file name="g.jpg" crc="502597111" ref="identity"/>
+    <file name="mask 4.jpg" crc="158527747" ref="identity"/>
+  </folder>
+  <file name="index.html" crc="51860618" seo="true" mt="1493499147434" redirect="true"/>
+  <file name="shadow-world.html" crc="4047284836" seo="true" mt="1493911183558" redirect="true"/>
+  <file name="fear-and-love.html" crc="130364009" seo="true" mt="1493911274198" redirect="true"/>
+  <file name="ficciones-typographica.html" crc="4085011503" seo="true" mt="1493911639679" redirect="true"/>
+  <file name="seeing-voices.html" crc="172309827" seo="true" mt="1493911301786" redirect="true"/>
+  <file name="future-archives.html" crc="3869372192" seo="true" mt="1493911525597" redirect="true"/>
+  <file name="identity.html" crc="3874680297" seo="true" mt="1493911428324" redirect="true"/>
+</manifest>
